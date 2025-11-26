@@ -29,7 +29,7 @@ git commit -m "Initial commit: Color Generator app"
 Замени `[username]` на своё имя пользователя GitHub:
 
 ```bash
-git remote add origin https://github.com/[username]/color-generator.git
+git remote add origin https://github.com/maxmxgpir/color-generator.git
 ```
 
 Проверь, что это сработало:
